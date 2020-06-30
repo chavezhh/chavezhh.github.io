@@ -1,4 +1,4 @@
-# Samwise Gamgee - Wahre Helden bleiben unerkannt<h1>
+﻿# Samwise Gamgee - Wahre Helden bleiben unerkannt<h1>
 
 Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstoeren hat. Allerdings ist nicht er der wahre Held, sondern sein Gaertner Sam.
 
@@ -11,3 +11,7 @@ Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstoeren h
 * Hat sich überwunden und die Hübscheste im Auenland erobert
 * Hat 13 Kinder
 * Wurde Bürgermeister vom Auenland
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
